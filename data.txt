@@ -1,0 +1,1 @@
+// TODO: data to parse for guild app
